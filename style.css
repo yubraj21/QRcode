@@ -33,7 +33,7 @@ h1{
   border-radius: 20px;
   padding: 0.85%;
   background-color: hsl(0, 0%, 100%); 
-  box-shadow: 0px 0px 10px 0px hsl(0, 0%, 0%);
+  box-shadow: 0px 0px 10px 0px  hsl(0, 1%, 32%);
 }
 
 img{
